@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: smart-warehouse
+    runtime: docker
+    plan: starter
+    envVars:
+      - key: JWT_SECRET
+        generateValue: true
+      - key: DB_PATH
+        value: /data/warehouse.db
+    disk:
+      name: warehouse-data
+      mountPath: /data
+      sizeGB: 1
