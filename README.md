@@ -100,7 +100,3 @@ Single-service deploy (API + UI together):
 | ![Movements](docs/screenshots/movements.png) | ![Suppliers](docs/screenshots/suppliers.png) |
 | ![Warehouses](docs/screenshots/warehouses.png) | ![Reports](docs/screenshots/reports.png) |
 
-## Submission links
-- GitHub repository: _<add link>_
-- Deployed application: _<add link>_
-- Video recording (5–8 min): _<add link>_
