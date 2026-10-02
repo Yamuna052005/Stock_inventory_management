@@ -93,12 +93,6 @@ Single-service deploy (API + UI together):
 - **Railway / Fly.io / any Docker host**: use the `Dockerfile`; mount a volume at `/data`; set `JWT_SECRET`.
 - Without Docker: build command `npm run install:all && npm run build`, start command `npm start`; set `DB_PATH` to a persistent disk.
 
-## Screenshots
-| | |
-|---|---|
-| ![Dashboard](docs/screenshots/dashboard.png) | ![Products](docs/screenshots/products.png) |
-| ![Movements](docs/screenshots/movements.png) | ![Suppliers](docs/screenshots/suppliers.png) |
-| ![Warehouses](docs/screenshots/warehouses.png) | ![Reports](docs/screenshots/reports.png) |
 
 ## Submission links
 - GitHub repository: https://github.com/Yamuna052005/Stock_inventory_management
