@@ -100,3 +100,6 @@ Single-service deploy (API + UI together):
 | ![Movements](docs/screenshots/movements.png) | ![Suppliers](docs/screenshots/suppliers.png) |
 | ![Warehouses](docs/screenshots/warehouses.png) | ![Reports](docs/screenshots/reports.png) |
 
+## Submission links
+- GitHub repository: https://github.com/Yamuna052005/Stock_inventory_management
+- Deployed application: https://stock-inventory-management-x4cp.onrender.com
