@@ -94,6 +94,6 @@ Single-service deploy (API + UI together):
 - Without Docker: build command `npm run install:all && npm run build`, start command `npm start`; set `DB_PATH` to a persistent disk.
 
 
-## Submission links
+## Live Demo
 - GitHub repository: https://github.com/Yamuna052005/Stock_inventory_management
 - Deployed application: https://stock-inventory-management-x4cp.onrender.com
