@@ -19,9 +19,9 @@ The following credentials are provided for testing the deployed application.
 
 | Role              | Email                 | Password      |
 | ----------------- | --------------------- | ------------- |
-| Admin             | `admin@example.com`   | `Admin@123`   |
-| Warehouse Manager | `manager@example.com` | `Manager@123` |
-| Staff             | `staff@example.com`   | `Staff@123`   |
+| Admin             | `admin@warehouse.com`   | `admin123`   |
+| Warehouse Manager | `manager@warehouse.com` | `manager123` |
+| Staff             | `staff@warehouse.com`   | `staff123`   |
 
 > **Note:** These credentials are for demonstration/testing purposes only and should not be reused in a production environment.
 
