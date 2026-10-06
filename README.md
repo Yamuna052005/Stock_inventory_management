@@ -6,7 +6,7 @@ The application provides role-based access control, secure authentication, stock
 
 ## Live Demo
 
-**Live Application:** [Add your deployed application URL here]
+**Live Application:** https://stock-inventory-management-x4cp.onrender.com
 
 **GitHub Repository:**
 https://github.com/Yamuna052005/Stock_inventory_management
